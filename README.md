@@ -1,4 +1,5 @@
-# Blinkit-Sales
+# Blinkit-Sales-PowerBI-Dashboard
+![logo](https://github.com/Aisharriya/Blinkit-Sales/blob/main/blinkit.png)
 ## Project Overview
 This project involves the development of a **Power BI dashboard** for **Blinkit**, a grocery retailer, aimed at enhancing business decision-making through data insights. The dashboard provides a comprehensive overview of sales performance, customer satisfaction, and inventory distribution, enabling Blinkit to identify trends and areas for improvement.
 
